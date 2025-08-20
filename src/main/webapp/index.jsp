@@ -800,6 +800,13 @@
                             <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
                             <a href="#"><em class="fas fa-shoe-prints"></em> Footwear</a>
                             <a href="#"><em class="fas fa-watch"></em> Accessories</a>
+=======
+                            <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
+                            <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
+                            <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
+                            <a href="#"><em class="fas fa-shoe-prints"></em> Footwear</a>
+                            <a href="#"><em class="fas fa-watch"></em> Accessories</a>
+
                         </div>
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
