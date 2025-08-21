@@ -864,7 +864,7 @@
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><em class="fas fa-shoe-prints"></em></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
@@ -1076,10 +1076,10 @@
                     <h3>NexusShop</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><em class="fab fa-facebook-f"></em></a>
+                        <a href="#"><em class="fab fa-twitter"></em></a>
+                        <a href="#"><em class="fab fa-instagram"></em></a>
+                        <a href="#"><em class="fab fa-youtube"></em></a>
                     </div>
                 </div>
                 <div class="footer-col">
