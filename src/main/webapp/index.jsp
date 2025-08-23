@@ -797,7 +797,7 @@
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
                             <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
                             <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
+                            <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
