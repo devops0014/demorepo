@@ -796,8 +796,8 @@
                         <div class="dropdown-content">
                             <a href="#"><i class="fas fa-mobile-alt"></i> Smartphones</a>
                             <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
+                            <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
+                            <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
                             <a href="#"><em class="fas fa-shoe-prints"></em> Footwear</a>
                             <a href="#"><i class="fas fa-watch"></i> Accessories</a>
                         </div>
