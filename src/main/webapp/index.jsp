@@ -781,7 +781,7 @@
             }
         }
     </style>
-<head
+</head>
 <body>
     <!-- Header -->
     <header>
