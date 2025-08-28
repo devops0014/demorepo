@@ -74,7 +74,7 @@
             list-style: none;
         }
 
-        nav ul li {
+        nav ul li 
             margin: 0 15px;
             position: relative;
         }
