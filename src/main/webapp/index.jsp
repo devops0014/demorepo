@@ -797,12 +797,12 @@
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
                             <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
                             <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
+                            <a href="#"><i class="fas fa-headphones"></em> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><i class="fas fa-watch"></em> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
+                    <li><a href="#"><i class="fas fa-fire"></em> Trending</a></li>
                     <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
                     <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection 2024</h1>
+            <h1>summer collections 2026</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
