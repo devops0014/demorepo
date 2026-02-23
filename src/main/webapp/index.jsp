@@ -849,27 +849,27 @@
                 <p>Latest models from top brands</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-laptop"></i></div>
+                <div class="category-icon"><em class="fas fa-laptop"></em></div>
                 <h3>Laptops</h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-tshirt"></i></div>
+                <div class="category-icon"><em class="fas fa-tshirt"></em></div>
                 <h3>Clothing</h3>
                 <p>Trendy outfits for every occasion</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-headphones"></i></div>
+                <div class="category-icon"><em class="fas fa-headphones"></em></div>
                 <h3>Gadgets</h3>
                 <p>Smart devices for modern life</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-shoe-prints"></i></div>
+                <div class="category-icon"><em class="fas fa-shoe-prints"></em></div>
                 <h3>Footwear</h3>
                 <p>Comfortable & stylish shoes</p>
             </div>
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-watch"></i></div>
+                <div class="category-icon"><em class="fas fa-watch"></em></div>
                 <h3>Accessories</h3>
                 <p>Complete your look</p>
             </div>
@@ -1076,10 +1076,10 @@
                     <h3>NexusShop</h3>
                     <p>Your one-stop destination for all the latest products in technology, fashion, and lifestyle.</p>
                     <div class="social-links">
-                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                        <a href="#"><i class="fab fa-youtube"></i></a>
+                        <a href="#"><em class="fab fa-facebook-f"></em></a>
+                        <a href="#"><em class="fab fa-twitter"></i></em>
+                        <a href="#"><em class="fab fa-instagram"></em></a>
+                        <a href="#"><em class="fab fa-youtube"></em></a>
                     </div>
                 </div>
                 <div class="footer-col">
