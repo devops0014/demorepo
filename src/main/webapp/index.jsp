@@ -802,23 +802,23 @@
                             <a href="#"><em class="fas fa-watch"></em> Accessories</a>
                         </div>
                     </li>
-                    <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></em> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></em> About</a></li>
+                    <li><a href="#"><em class="fas fa-envelope"></em> Contact</a></li>
                 </ul>
             </nav>
             
             <div class="search-bar">
                 <input type="text" placeholder="Search products...">
-                <button type="submit"><i class="fas fa-search"></i></button>
+                <button type="submit"><em class="fas fa-search"></em></button>
             </div>
             
             <div class="header-icons">
-                <a href="#"><i class="far fa-user"></i></a>
-                <a href="#"><i class="far fa-heart"></i></a>
-                <a href="#"><i class="fas fa-shopping-cart"></i><span class="cart-count">3</span></a>
-                <button class="mobile-menu-btn" id="mobileMenuBtn"><i class="fas fa-bars"></i></button>
+                <a href="#"><em class="far fa-user"></em></a>
+                <a href="#"><em class="far fa-heart"></em></a>
+                <a href="#"><em class="fas fa-shopping-cart"></em><span class="cart-count">3</span></a>
+                <button class="mobile-menu-btn" id="mobileMenuBtn"><em class="fas fa-bars"></em></button>
             </div>
         </div>
     </header>
@@ -844,7 +844,7 @@
         
         <div class="categories">
             <div class="category-card">
-                <div class="category-icon"><i class="fas fa-mobile-alt"></i></div>
+                <div class="category-icon"><em class="fas fa-mobile-alt"></em></div>
                 <h3>Smartphones</h3>
                 <p>Latest models from top brands</p>
             </div>
