@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NexusShop - Modern E-Commerce</title>
+    <title>MyntraaShopping - Modern E-Commerce Website</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
     <style>
@@ -795,11 +795,14 @@
                         <a href="#"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down"></em></a>
                         <div class="dropdown-content">
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
-                            <a href="#"><i class="fas fa-laptop"></i> Laptops</a>
-                            <a href="#"><i class="fas fa-tshirt"></i> Clothing</a>
-                            <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
-                            <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
-                            <a href="#"><i class="fas fa-watch"></i> Accessories</a>
+                            <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
+                            <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
+                            <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
+                            <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
+                            <a href="#"><em class="fas fa-tshirt"></em> Clothing</>
+                            <a href="#"><em class="fas fa-headphones"></em> Gadgets</a>
+                            <a href="#"><em class="fas fa-shoe-prints"></em> Footwear</a>
+                            <a href="#"><em class="fas fa-watch"></em> Accessories</a>
                         </div>
                     </li>
                     <li><a href="#"><i class="fas fa-fire"></i> Trending</a></li>
@@ -826,7 +829,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>Winter Collection 2024</h1>
+            <h1>Summer Collection 2025</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
